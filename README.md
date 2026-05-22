@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fanpage - Pretty Little Liars</title>
+        
+        <h1><strong><img src="https://upload.wikimedia.org/wikipedia/de/thumb/7/77/PrettyLittleLiars_Logo.svg/960px-PrettyLittleLiars_Logo.svg.png" width="400"></strong>
+        </h1>
+    </head>
+   
+    <style> 
+   
+    body {
+        background-color: lightblue;
+    }
+    h1 {
+        color: darkblue;
+    }
+
+    strong {
+            color: rgb(194, 17, 126);
+            font-family: "another", sans-serif;
+        }
+    #another {
+            background-color: lightblue ;
+            
+        }
+        h1{color:darkblue
+    ;}</style>
+    <body>
+    <h1 id="another">Steckbrief</h1>
+    <p></p>
+    
+    Titel:	Pretty Little Liars
+<p>Produktionsland: Vereinigte Staaten</p>
+    
+ <P>Originalsprache: Englisch </P>
+ <P>Genre: Drama, Mystery, Teen-Thriller </P>
+ <P>Episoden: 160 Folgen in 7 Staffeln  </P>
+ <P>Laufzeit	ca. 42–45 Minuten pro Folge </P>
+ <P>Idee (Serie)	I. Marlene King  </P>
+ <P>Buchvorlage: Sara Shepard </P>
+ <P>Titelmusik: Secret von The Pierces </P>
+ <P>Erstausstrahlung: 8. Juni 2010 – 27. Juni 2017 (USA) </P>
+    
+  
+    
+<table>
+    <tr>
+        
+    
+
+        <td width="30"></td>
+
+        <td>
+            
+            <table cellpadding="10">
+                <tr>
+                    <td><b>Charaktere</b></td>
+                    <td><b>Schauspieler</b></td>
+                </tr>
+                <tr>
+                    <td>Aria Montgomery</td>
+                    <td>Lucy Hale</td>
+                </tr>
+                <tr>
+                    <td>Emily Fields</td>
+                    <td>Shay Mitchell</td>
+                </tr>
+                <tr>
+                    <td>Hanna Marin</td>
+                    <td>Ashley Benson</td>
+                </tr>
+                <tr>
+                    <td>Spencer Hastings</td>
+                    <td>Troian Bellisario</td>
+                </tr>
+                <tr>
+                    <td>Alison DiLaurentis</td>
+                    <td>Sasha Pieterse</td>
+                </tr>
+            </table>
+
+        </td>
+        
+    </tr>
+</table>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cast_of_Pretty_Little_Liars_at_Paley_Fest2014.jpg/500px-Cast_of_Pretty_Little_Liars_at_Paley_Fest2014.jpg" width="400">
+         
+       <h1 id="b">Handlungszusammenfassung</h1>
+       Die Serie folgt den vier Freundinnen <strong>Aria</strong>,<strong> Spencer</strong>, <strong>Hanna</strong> und <strong> Emily </strong>in der fiktiven Kleinstadt Rosewood, Pennsylvania. <P>Ein Jahr nach dem mysteriösen Verschwinden ihrer Clique-Anführerin <em>Alison DiLaurentis</em> haben sich die Mädchen auseinandergelebt. Doch plötzlich erhalten alle vier Drohbotschaften von einer unbekannten Person, die sich selbst nur „<strong>A</strong>“ nennt. </p> <p>
+     „<strong>A</strong>“ droht damit, ihre dunkelsten Geheimnisse zu enthüllen – Geheimnisse, die eigentlich nur Alison wissen konnte. Die Freundinnen müssen sich wieder zusammenraufen, um herauszufinden, wer hinter den Nachrichten steckt, während sie gleichzeitig versuchen, Alisons Verschwinden aufzuklären.
+        </p>
+<ul>
+    <li><strong>Aria Montgomery
+    </strong> <ul>
+        <li> Beschreibung: Kreativ und künstlerisch begabt. Kehrt aus Island zurück und führt eine heimliche Beziehung mit ihrem Lehrer Ezra Fitz.</li>
+    </ul></li> 
+    <li><strong> Spencer Hastings
+    </strong> <ul>
+        <li> Beschreibung: Hochintelligent, ehrgeizig und perfektionistisch. Sie übernimmt oft die logische Führung bei der Suche nach „<strong>A</strong>“.</li>
+    </ul></li> 
+    <li><strong>Hanna Marin
+    </strong> <ul>
+        <li> Beschreibung: Das neue, beliebte „It-Girl“ der Schule. Hinter ihrer modischen Fassade ist sie jedoch verletzlich und sehr loyal.</li>
+    </ul></li> 
+    <li><strong>Emily Fields
+    </strong> <ul>
+        <li> Beschreibung: Eine einfühlsame Leistungsschwimmerin. Sie kämpft mit den Erwartungen ihrer Familie und ihrem Coming-out.</li>
+    </ul></li> 
+    <li><strong>Alison DiLaurentis
+    </strong> <ul>
+        <li> Beschreibung: Die manipulative, geheimnisvolle Anführerin der Clique. Ihr plötzliches Verschwinden startet die gesamte Handlung.</li>
+    </ul></li> 
+    <li><em><strong>A</strong>.</em> <ul><li>Ein unbekanntes Phantom, das die Geheimnisse der Mädchen kennt, sie per SMS erpresst und mit psychologischen Spielen terrorisiert.</li>
+        </ul>
+    </li>
+    
+</ul> <h1 style=" color: rgb(189, 17, 123);">Spoiler Warnung!!</h1>
+<h1 id="c">Die Staffeln</h1>
+<ol>
+    <li>Staffel 
+        <ul>
+            <li>Ein Jahr nach Alisons Verschwinden werden die vier Freundinnen Aria, Spencer, Hanna und Emily von einem Unbekannten namens „<strong>A</strong>“ mit ihren Geheimnissen erpresst. Am Ende wird Alisons Leiche gefunden und die Mädchen geraten selbst unter Verdacht.</li>
+        </ul>
+    </li>
+
+    <li>Staffel 
+        <ul>
+            <li>Die Suche nach „<strong>A</strong>“ verschärft sich, während die Mädchen versuchen, den Mord an Alison aufzuklären. Im packenden Finale wird schließlich enthüllt, wer die ganze Zeit hinter den Nachrichten steckte: Mona Vanderwaal.</li>
+        </ul>
+    </li>
+    <li>Staffel 
+        <ul>
+            <li>Mona landet in der Psychiatrie, doch das Spiel ist nicht vorbei – ein neues, noch gefährlicheres „<strong>A</strong>-Team“ übernimmt. Die Freundinnen finden heraus, dass eine mysteriöse Frau im roten Mantel die Fäden zieht.</li>
+        </ul>
+    </li>
+    
+    <li>Staffel 
+        <ul>
+            <li>Die Mädchen jagen Red Coat und finden die schockierende Wahrheit heraus: Alison lebt und ist auf der Flucht vor „<strong>A</strong>“. Am Ende der Staffel treffen die Freundinnen endlich wieder persönlich auf Alison.</li>
+        </ul>
+    </li>
+    <li>Staffel 
+        <ul>
+            <li>Alison kehrt nach Rosewood zurück, doch ihr Netz aus Lügen sorgt für neues Misstrauen. „<strong>A</strong>“ schlägt härter zu als je zuvor, und die Staffel endet damit, dass die Mädchen entführt und in einem lebensgroßen, unterirdischen Puppenhaus gefangen gehalten werden.</li>
+        </ul>
+    </li>
+    <li>Staffel 
+        <ul>
+            <li>Nach der Flucht aus dem Puppenhaus wird die Identität des wahren Haupt-„<strong>A</strong>“ (CeCe Drake bzw. Charlotte DiLaurentis) gelüftet. Nach einem Zeitsprung von fünf Jahren kehren die Mädchen als Erwachsene nach Rosewood zurück, wo ein neuer, mörderischer Rächer namens „A.D.“ das Spiel fortsetzt.</li>
+        </ul>
+    </li>
+    <li>Staffel 
+        <ul>
+            <li>Das finale, tödliche Spiel um die Identität von „A.D.“ erreicht seinen Höhepunkt. Im großen Serienfinale wird das letzte Geheimnis gelüftet:<h4 style="color: red;">"A.D.“ ist Spencers psychopathisch Zwillingsschwester Alex Drake.</h4> </li>
+        </ul>
+    </li>
+</ol>
+<h1 id="d">Cast & Crew</h1>
+<h3>Die Nebenrollen:</h3>
+<table> <tr>
+ <td><b>Charaktere</b></td>
+ <td><b>Schauspieler</b></td>
+ </tr>
+<tr>
+<td>Mona Vanderwaal</td>
+<td>Janel Parrish</td>
+</tr>
+ <tr>
+ <td>Toby Cavanaugh</td>
+ <td>Keegan Allen</td>
+</tr>
+<tr>
+<td>Caleb Rivers</td>
+ <td>Tyler Blackburn</td>
+</tr>
+<tr>
+ <td>Paige McCullers</td>
+ <td>Lindsey Shaw</td>
+</tr>
+<tr>
+<td>Jenna Marshall</td>
+ <td>Tammin Sursok</td>
+</tr>
+<h2>Beschreibung</h2>
+ </table><p>
+<li><b> Mona</b>: Zu Beginn der Serie ist sie Hannas beste Freundin und das zweite neue „It-Girl“ der Schule. Hinter ihrer stylischen und netten Art verbirgt sich jedoch eine hochintelligente, manipulative Persönlichkeit mit einer düsteren Verbindung zu „<strong>A</strong>“.</li></p>
+<p><li> <b>Toby Cavanaugh</b>: Der verschlossene Außenseiter von Rosewood, der anfangs von allen wegen eines Unfalls in der Vergangenheit verdächtigt wird. Er freundet sich später mit Spencer an, woraus sich eine der wichtigsten Liebesbeziehungen der Serie entwickelt.</li></p>
+<p><li><b>Caleb Rivers</b>: Ein cleverer Neuzugang an der Schule, der sich als geschickter Hacker und Technik-Experte über Wasser hält. Er hilft den Mädchen mehrfach dabei, die Spur von „<strong>A</strong>“ zurückzuverfolgen, und wird Hannas fester Freund.</li></p>
+
+<p><li><b>Paige McCullers</b>: Eine ehrgeizige Mitschwimmerin im Team der Rosewood Highschool, die zunächst in starker Konkurrenz zu Emily Fields steht. Später entwickeln die beiden tiefere Gefühle füreinander und Paige wird zu Emilys erster langjähriger Partnerin in der Serie.</li></p>
+
+<p><li><b>Jenna Marsha</b>: Alisons Stiefschwester, die durch einen von der Clique verschuldeten Streich ihr Augenlicht verlor. Sie kehrt blind nach Rosewood zurück und führt wechselhafte, oft mysteriöse Beziehungen (unter anderem mit Toby und Garrett), während sie gleichzeitig eine der Hauptverdächtigen im Kreis der Mädchen bleibt.</li></p>
+<a href="https://de.wikipedia.org/wiki/Pretty_Little_Liars">Klicke hier um zurm offizielen Wikipedia-Artikel</a>
+</body>
+</html>
